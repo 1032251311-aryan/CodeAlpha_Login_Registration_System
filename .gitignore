@@ -1,0 +1,10 @@
+
+# User credentials - keep local
+users.txt
+
+# Compiled C++ executable files
+*.exe
+
+# Object files
+*.o
+*.obj
